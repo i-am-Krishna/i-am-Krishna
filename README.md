@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+<!-- [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSisORitrNo814X5SIEAa53xz5fFrpoLUJL1A&usqp=CAU)] -->
 <h1 align="center">Hi 👋, I'm Krishna Kumar Gupta</h1>
 <h3 align="center">A passionate full stack developer Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector.</h3>
 
