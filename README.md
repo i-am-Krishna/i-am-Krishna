@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Tic-Tac-Toe](https://calm-pithivier-182e39.netlify.app/)
 
-- 🌱 I’m currently learning **MySQL and Python.**
+- 🌱 I’m currently learning **MySQL.**
 
-- 👨‍💻 All of my projects are available at [https://cheerful-truffle-88d290.netlify.app/](https://cheerful-truffle-88d290.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://krishnakumargupta.vercel.app/](https://krishnakumargupta.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kumarkrishn663](https://medium.com/@kumarkrishn663)
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kumarkrishn663@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ljtlqcJ2MEgQ4Tm9L60291ZEyB37LAjO/edit?usp=sharing&ouid=116723615753299677565&rtpof=true&sd=true](https://docs.google.com/document/d/1ljtlqcJ2MEgQ4Tm9L60291ZEyB37LAjO/edit?usp=sharing&ouid=116723615753299677565&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1M5aTSBIXVfCdPG9coC5eo-sBnpFxgekF/view?usp=sharing](https://drive.google.com/file/d/1M5aTSBIXVfCdPG9coC5eo-sBnpFxgekF/view?usp=sharing)
 
 - ⚡ Fun fact **Time, tide and JavaScript newer waits for someone.**
 
